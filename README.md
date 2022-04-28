@@ -1,4 +1,4 @@
-# Ball Control With Optical Flow
+# Ball Control with Optical Flow
 
 This is a game in which you can control a ball using your webcam and your body movements or fingers. The position of the ball is given by the optical flow of the movements in the camera.
 
